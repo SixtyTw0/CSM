@@ -4,5 +4,16 @@
   "artist": "Fujimoto Tatsuki",
   "author": "Fujimoto Tatsuki",
   "cover": "https://temp.compsci88.com/cover/Chainsaw-Man.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1674460911",
+      "groups": {
+        "": [
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-001.png"
+        ]
+      }
+    }
+  }
 }
