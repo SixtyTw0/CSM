@@ -6,12 +6,18 @@
   "cover": "https://temp.compsci88.com/cover/Chainsaw-Man.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Dog and Chainsaw",
       "volume": "1",
       "last_updated": "1674460911",
       "groups": {
         "": [
-          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-001.png"
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-001.png",
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-002.png",
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-003.png",
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-004.png",
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-005.png",
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-006.png",
+          "https://official-ongoing-2.gamindustri.us/manga/Chainsaw-Man/0001-007.png"
         ]
       }
     }
